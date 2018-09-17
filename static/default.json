@@ -1,0 +1,10 @@
+{
+  "port": 8081,
+  "root": "F:/document/work/code/WebstormProjects/svn/gMall/dist",
+  "indexPage": "g2098Index.html",
+  "cacheControl": true,
+  "expires": true,
+  "etag": true,
+  "lastModified": true,
+  "maxAge": 5
+}
